@@ -1,0 +1,1 @@
+import M5 from '../components/M5Data5GTab'; export default function Home(){ return <M5/> }
